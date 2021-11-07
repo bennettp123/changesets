@@ -1,5 +1,12 @@
 # @changesets/get-release-plan
 
+## 3.0.2
+
+### Patch Changes
+
+- Updated dependencies []:
+  - @changesets/read@0.5.1
+
 ## 3.0.1
 
 ### Patch Changes
