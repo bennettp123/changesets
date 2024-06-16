@@ -11,6 +11,6 @@
     "@manypkg/get-packages": "^1.0.1",
     "chalk": "^2.1.0",
     "fs-extra": "^7.0.1",
-    "semver": "^5.4.1"
+    "semver": "^5.7.2"
   }
 }
