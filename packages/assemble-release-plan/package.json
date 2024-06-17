@@ -12,7 +12,7 @@
     "@changesets/get-dependents-graph": "^1.2.2",
     "@changesets/types": "^4.0.1",
     "@manypkg/get-packages": "^1.0.1",
-    "semver": "^5.4.1"
+    "semver": "^5.7.2"
   },
   "devDependencies": {
     "@changesets/config": "*"
